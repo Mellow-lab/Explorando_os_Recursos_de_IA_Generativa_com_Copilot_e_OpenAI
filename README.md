@@ -2,6 +2,8 @@
 
 <h1 align="center">🤖 Explorando os Recursos de IA Generativa com Copilot & OpenAI</h1>
 
+![Image](https://github.com/user-attachments/assets/316c0c71-e69a-478a-a3da-446e9639683f)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Desafio-DIO-%237159c1" />
   <img src="https://img.shields.io/badge/GitHub-Copilot-blue" />
