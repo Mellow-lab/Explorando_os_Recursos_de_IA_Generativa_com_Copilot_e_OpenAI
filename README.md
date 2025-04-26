@@ -25,6 +25,7 @@
 
 ---
 
+
 ## 🧠 Tecnologias e Ferramentas Utilizadas
 
 | Tecnologia              | Descrição                                                                 |
@@ -37,6 +38,7 @@
 | `Git e GitHub`          | Versionamento e compartilhamento de conhecimento   
 
 ---
+![Image](https://github.com/user-attachments/assets/9970bc92-0b14-40a2-81ed-a3ce602f861c)
 
 ## ✨ Destaques dos Aprendizados
 
