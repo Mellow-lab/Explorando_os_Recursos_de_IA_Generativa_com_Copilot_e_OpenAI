@@ -1,0 +1,2 @@
+# Explorando_os_Recursos_de_IA_Generativa_com_Copilot_e_OpenAI
+ 
